@@ -70,6 +70,7 @@
     <Content Include="Contact.aspx" />
     <Content Include="Content\app.css" />
     <Content Include="Default.aspx" />
+    <Content Include="links.txt" />
     <Content Include="packages.config" />
     <Content Include="Project.aspx" />
     <Content Include="Scripts\app.js" />

@@ -1,2 +1,27 @@
 ﻿body {
 }
+
+.navbar{
+    color:#fff;
+    background:rgba(121,142,163,1);
+text-shadow:1px 1px 1px #000;
+}
+.navbar .navbar-default  {
+    color: #fff;
+    background:rgba(121,142,163,1);
+    position: fixed;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+   text-shadow:1px 1px 1px #000;
+      background:rgba(121,142,163,1);
+}
+ .navbar-default .navbar-nav > .active > a
+{
+           color: cyan;
+           background: rgba(173,186,199,1);
+        text-shadow:1px 1px 1px #000;
+}
+
+
